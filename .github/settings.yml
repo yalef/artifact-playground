@@ -1,0 +1,14 @@
+schedule: "*/10 * * * *"
+repository:
+  description: lalala
+labels:
+  - name: buggy
+    color: ABA000
+    description: An issue with the system.
+  - name: feat
+    color: FFFF00
+    description: An feature request
+  - name: question
+    color: EEEEEE
+    description: An question
+  
