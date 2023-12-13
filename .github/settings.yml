@@ -2,7 +2,7 @@ schedule: "*/10 * * * *"
 repository:
   description: lalala
 labels:
-  - name: buggy!
+  - name: buggy
     color: ABA000
     description: An issue with the system.
   - name: feat
