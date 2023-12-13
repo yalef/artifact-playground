@@ -1,4 +1,4 @@
-schedule: "*/10 * * * *"
+schedule: "*/9 * * * *"
 repository:
   description: alala
 labels:
