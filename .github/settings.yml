@@ -1,6 +1,6 @@
 schedule: "*/9 * * * *"
 repository:
-  description: name lala
+  description: name123 lala
 labels:
   - name: bug
     color: ABA000
