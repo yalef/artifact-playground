@@ -1,6 +1,6 @@
 schedule: "*/9 * * * *"
 repository:
-  description: name1nasd23 lala123
+  description: name1nasda123
 labels:
   - name: bug
     color: ABA000
