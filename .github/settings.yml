@@ -1,14 +1,15 @@
 schedule: "*/9 * * * *"
 repository:
-  description: cadabra
+  description: yoy!
 labels:
   - name: bug
-    color: ABA000
-    description: An issue with the system.
-  - name: feat
-    color: FFFF00
-    description: An feature request
-  - name: question
-    color: EEEEEE
-    description: An question
-  
+    color: FFFFFF
+    description: A bug
+
+  - name: discussion
+    color: FFFFFF
+    description: A feature
+
+  - name: A
+    color: FFFFFF
+    description: A feature
