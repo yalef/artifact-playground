@@ -10,3 +10,7 @@ labels:
     color: FFFFFF
     description: A discussion
 
+  - name: feature
+    color: FFF111
+    description: A feature
+
