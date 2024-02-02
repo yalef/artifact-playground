@@ -1,6 +1,6 @@
 schedule: "*/9 * * * *"
 repository:
-  description: yoy!
+  descripton: yoy!
 labels:
   - name: bug
     color: FFFFFF
