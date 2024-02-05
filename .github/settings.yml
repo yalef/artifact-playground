@@ -1,16 +1,16 @@
 schedule: "*/9 * * * *"
 repository:
-  descripton: yoy!
+  description: yoy!
 labels:
   - name: bug
     color: FFFFFF
     description: A bug
 
   - name: discussion
-    color: FF0000
+    color: FF00B0
     description: A discussion lol
 
-  - name: feature!
-    color: FFF111
-    description: A feature
+  - name: refactoring
+    color: FFFBBB
+    description: Refactoring task
 
